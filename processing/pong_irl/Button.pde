@@ -21,6 +21,7 @@ class Button {
     fill(bgColor);
     rect(x, y, width, height);
     fill(textColor);
+    textAlign(CENTER);
     text(label, x + 3, y + 3, width, height);
   }
 
