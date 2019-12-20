@@ -9,6 +9,10 @@ class Score {
   }
 
   void draw() {
+    if (player1 >= pointsToWin || player2 >= pointsToWin){
+      player1 = 0;
+      player2 = 0;
+    }
     fill(0);
     textAlign(CENTER);
     textSize(16);
