@@ -1,5 +1,7 @@
 # pong_irl
 
+http://fablab.sorbonne-universites.fr/wiki/doku.php?id=wiki:projets:pongirl
+
 ### Branchements
 Les deux capteurs laser doivent etre branchés a l'Arduino de la facon suivante:
  - VIN -> 5V
